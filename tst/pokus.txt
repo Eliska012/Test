@@ -1,4 +1,4 @@
 Ahoj
 nazdar
-cau
 svet
+kočka
