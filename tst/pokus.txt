@@ -2,3 +2,6 @@ Ahoj
 nazdar
 svet
 kočka
+mk
+lk
+ik
